@@ -4,13 +4,7 @@ import cors from 'cors';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// CORS configurado para aceitar qualquer origem
-app.use(cors({
-    origin: '*',
-    methods: ['GET', 'POST', 'OPTIONS'],
-    allowedHeaders: ['Content-Type']
-}));
-
+app.use(cors());
 app.use(express.json());
 
 function timestampToSeconds(timestamp) {
@@ -63,18 +57,10 @@ function parseSubtitleData(content) {
 }
 
 app.get('/api/transcript', async (req, res) => {
-    // Headers CORS adicionados manualmente para garantir
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.header('Access-Control-Allow-Headers', 'Content-Type');
-    
     const videoId = req.query.videoId;
     
     if (!videoId) {
-        return res.status(400).json({ 
-            success: false,
-            error: 'videoId é obrigatório' 
-        });
+        return res.status(400).json({ error: 'videoId é obrigatório' });
     }
     
     console.log(`Buscando transcrição para: ${videoId}`);
@@ -93,7 +79,6 @@ app.get('/api/transcript', async (req, res) => {
                     const parsed = parseSubtitleData(subData);
                     
                     if (parsed && parsed.length > 0) {
-                        console.log(`✅ Sucesso! ${parsed.length} frases`);
                         return res.json({
                             success: true,
                             videoId: videoId,
@@ -102,22 +87,6 @@ app.get('/api/transcript', async (req, res) => {
                     }
                 }
             }
-        }
-        
-        const fallbackResponse = await fetch(`https://youtube-transcript.vercel.app/api/transcript?videoId=${videoId}`);
-        const fallbackData = await fallbackResponse.json();
-        
-        if (fallbackData && Array.isArray(fallbackData) && fallbackData.length > 0) {
-            const formatted = fallbackData.map(segment => ({
-                startTime: segment.start,
-                text: segment.text
-            }));
-            
-            return res.json({
-                success: true,
-                videoId: videoId,
-                transcript: formatted
-            });
         }
         
         return res.json({
@@ -132,13 +101,6 @@ app.get('/api/transcript', async (req, res) => {
             error: 'Erro interno do servidor'
         });
     }
-});
-
-app.options('/api/transcript', (req, res) => {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.header('Access-Control-Allow-Headers', 'Content-Type');
-    res.sendStatus(200);
 });
 
 app.get('/', (req, res) => {
