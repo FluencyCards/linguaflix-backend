@@ -13,37 +13,451 @@
       "startTime": 33,
       "endTime": 38,
       "text": "I said don't mind, but what do you mean, I am the one",
-      "translation": "Eu disse não se importe, mas o que você quer dizer, eu sou o único"
+      "translation": "Eu disse não ligue, mas o que você quer dizer com eu sou o escolhido"
     },
     {
       "startTime": 38,
       "endTime": 43,
       "text": "Who will dance on the floor in the round",
-      "translation": "Quem vai dançar no chão na roda"
+      "translation": "Que vai dançar na pista de dança"
     },
     {
       "startTime": 43,
       "endTime": 47,
       "text": "She said I am the one",
-      "translation": "Ela disse que eu sou o único"
+      "translation": "Ela disse que eu sou o escolhido"
     },
     {
       "startTime": 47,
       "endTime": 54,
       "text": "Who will dance on the floor in the round",
-      "translation": "Quem vai dançar no chão na roda"
+      "translation": "Que vai dançar na pista de dança"
     },
     {
       "startTime": 54,
       "endTime": 56,
       "text": "She told me her name was Billie Jean",
-      "translation": "Ela me disse que seu nome era Billie Jean"
+      "translation": "Ela me disse que o nome dela era Billie Jean"
     },
     {
       "startTime": 56,
       "endTime": 58,
       "text": "As she caused a scene",
       "translation": "Enquanto ela causava uma cena"
+    },
+    {
+      "startTime": 58,
+      "endTime": 61,
+      "text": "Then every head turned with eyes",
+      "translation": "Então todas as cabeças se voltaram com olhos"
+    },
+    {
+      "startTime": 61,
+      "endTime": 63,
+      "text": "That dreamed of being the one",
+      "translation": "Que sonhavam em ser o escolhido"
+    },
+    {
+      "startTime": 63,
+      "endTime": 70,
+      "text": "Who will dance on the floor in the round",
+      "translation": "Que vai dançar na pista de dança"
+    },
+    {
+      "startTime": 70,
+      "endTime": 74,
+      "text": "People always told me be careful of what you do",
+      "translation": "As pessoas sempre me diziam para ter cuidado com o que você faz"
+    },
+    {
+      "startTime": 74,
+      "endTime": 77,
+      "text": "And don't go around breaking young girls' hearts",
+      "translation": "E não saia por aí partindo os corações das garotas jovens"
+    },
+    {
+      "startTime": 77,
+      "endTime": 78,
+      "text": "Hee",
+      "translation": "Hee"
+    },
+    {
+      "startTime": 78,
+      "endTime": 82,
+      "text": "And mother always told me be careful of who you love",
+      "translation": "E a minha mãe sempre me dizia para ter cuidado com quem você ama"
+    },
+    {
+      "startTime": 82,
+      "endTime": 85,
+      "text": "And be careful of what you do",
+      "translation": "E ter cuidado com o que você faz"
+    },
+    {
+      "startTime": 85,
+      "endTime": 88,
+      "text": "'Cause the lie becomes the truth, hey",
+      "translation": "Porque a mentira se torna a verdade, hey"
+    },
+    {
+      "startTime": 88,
+      "endTime": 91,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 91,
+      "endTime": 95,
+      "text": "She's just a girl who claims that I am the one",
+      "translation": "Ela é apenas uma garota que afirma que eu sou o escolhido"
+    },
+    {
+      "startTime": 95,
+      "endTime": 97,
+      "text": "Oh babe",
+      "translation": "Oh babe"
+    },
+    {
+      "startTime": 97,
+      "endTime": 99,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 99,
+      "endTime": 101,
+      "text": "Woo",
+      "translation": "Woo"
+    },
+    {
+      "startTime": 101,
+      "endTime": 104,
+      "text": "She says I am the one",
+      "translation": "Ela diz que eu sou o escolhido"
+    },
+    {
+      "startTime": 104,
+      "endTime": 107,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 107,
+      "endTime": 111,
+      "text": "Hee, hee, hee",
+      "translation": "Hee, hee, hee"
+    },
+    {
+      "startTime": 111,
+      "endTime": 114,
+      "text": "For forty days and forty nights",
+      "translation": "Por quarenta dias e quarenta noites"
+    },
+    {
+      "startTime": 114,
+      "endTime": 116,
+      "text": "The law was on her side",
+      "translation": "A lei estava do lado dela"
+    },
+    {
+      "startTime": 116,
+      "endTime": 119,
+      "text": "But who can stand when she's in demand",
+      "translation": "Mas quem pode resistir quando ela é requisitada"
+    },
+    {
+      "startTime": 119,
+      "endTime": 121,
+      "text": "Her schemes and plans",
+      "translation": "Seus esquemas e planos"
+    },
+    {
+      "startTime": 121,
+      "endTime": 126,
+      "text": "'Cause we danced on the floor in the round",
+      "translation": "Porque nós dançamos na pista de dança"
+    },
+    {
+      "startTime": 126,
+      "endTime": 129,
+      "text": "So take my strong advice",
+      "translation": "Então aceite meu forte conselho"
+    },
+    {
+      "startTime": 129,
+      "endTime": 133,
+      "text": "Just remember to always think twice",
+      "translation": "Apenas lembre-se de sempre pensar duas vezes"
+    },
+    {
+      "startTime": 133,
+      "endTime": 134,
+      "text": "(Do think twice)",
+      "translation": "(Pense duas vezes)"
+    },
+    {
+      "startTime": 134,
+      "endTime": 137,
+      "text": "She told my baby we'd danced 'til three",
+      "translation": "Ela disse ao meu bem que tínhamos dançado até as três"
+    },
+    {
+      "startTime": 137,
+      "endTime": 139,
+      "text": "Then she looked at me",
+      "translation": "Então ela olhou para mim"
+    },
+    {
+      "startTime": 139,
+      "endTime": 142,
+      "text": "Then showed a photo my baby cried",
+      "translation": "Então mostrou uma foto, meu bem chorou"
+    },
+    {
+      "startTime": 142,
+      "endTime": 145,
+      "text": "His eyes were like mine",
+      "translation": "Os olhos dele eram como os meus"
+    },
+    {
+      "startTime": 145,
+      "endTime": 150,
+      "text": "'Cause we danced on the floor in the round, baby",
+      "translation": "Porque nós dançamos na pista de dança, baby"
+    },
+    {
+      "startTime": 150,
+      "endTime": 154,
+      "text": "People always told me be careful of what you do",
+      "translation": "As pessoas sempre me diziam para ter cuidado com o que você faz"
+    },
+    {
+      "startTime": 154,
+      "endTime": 158,
+      "text": "And don't go around breaking young girls' hearts",
+      "translation": "E não saia por aí partindo os corações das garotas jovens"
+    },
+    {
+      "startTime": 158,
+      "endTime": 161,
+      "text": "Don't break no hearts",
+      "translation": "Não parta corações"
+    },
+    {
+      "startTime": 161,
+      "endTime": 164,
+      "text": "She came and stood right by me",
+      "translation": "Ela veio e ficou bem ao meu lado"
+    },
+    {
+      "startTime": 164,
+      "endTime": 166,
+      "text": "Just the smell of sweet perfume",
+      "translation": "Apenas o cheiro de um perfume doce"
+    },
+    {
+      "startTime": 166,
+      "endTime": 169,
+      "text": "This happened much too soon",
+      "translation": "Isso aconteceu cedo demais"
+    },
+    {
+      "startTime": 169,
+      "endTime": 172,
+      "text": "She called me to her room, hey",
+      "translation": "Ela me chamou para o quarto dela, hey"
+    },
+    {
+      "startTime": 172,
+      "endTime": 175,
+      "text": "Billie Jean is not my lover, woo",
+      "translation": "Billie Jean não é minha amante, woo"
+    },
+    {
+      "startTime": 175,
+      "endTime": 179,
+      "text": "She's just a girl who claims that I am the one",
+      "translation": "Ela é apenas uma garota que afirma que eu sou o escolhido"
+    },
+    {
+      "startTime": 179,
+      "endTime": 183,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 183,
+      "endTime": 185,
+      "text": "No, no",
+      "translation": "Não, não"
+    },
+    {
+      "startTime": 185,
+      "endTime": 189,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 189,
+      "endTime": 193,
+      "text": "She's just a girl who claims that I am the one",
+      "translation": "Ela é apenas uma garota que afirma que eu sou o escolhido"
+    },
+    {
+      "startTime": 193,
+      "endTime": 197,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 197,
+      "endTime": 200,
+      "text": "No, no, She says I am the one",
+      "translation": "Não, não, Ela diz que eu sou o escolhido"
+    },
+    {
+      "startTime": 200,
+      "endTime": 204,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 204,
+      "endTime": 208,
+      "text": "She, hee, hee",
+      "translation": "She, hee, hee"
+    },
+    {
+      "startTime": 224,
+      "endTime": 228,
+      "text": "She says I am the one, but the kid is not my son",
+      "translation": "Ela diz que eu sou o escolhido, mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 231,
+      "endTime": 235,
+      "text": "Yeah, yeah, yeah, Woo",
+      "translation": "Yeah, yeah, yeah, Woo"
+    },
+    {
+      "startTime": 235,
+      "endTime": 239,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 239,
+      "endTime": 243,
+      "text": "She's just a girl who claims that I am the one",
+      "translation": "Ela é apenas uma garota que afirma que eu sou o escolhido"
+    },
+    {
+      "startTime": 243,
+      "endTime": 245,
+      "text": "No it can't be me, babe",
+      "translation": "Não, não posso ser eu, babe"
+    },
+    {
+      "startTime": 245,
+      "endTime": 247,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 247,
+      "endTime": 249,
+      "text": "No, no, no",
+      "translation": "Não, não, não"
+    },
+    {
+      "startTime": 249,
+      "endTime": 252,
+      "text": "She says I am the one",
+      "translation": "Ela diz que eu sou o escolhido"
+    },
+    {
+      "startTime": 252,
+      "endTime": 255,
+      "text": "But the kid is not my son",
+      "translation": "Mas o garoto não é meu filho"
+    },
+    {
+      "startTime": 255,
+      "endTime": 257,
+      "text": "No, no, no",
+      "translation": "Não, não, não"
+    },
+    {
+      "startTime": 257,
+      "endTime": 259,
+      "text": "She says I am the one",
+      "translation": "Ela diz que eu sou o escolhido"
+    },
+    {
+      "startTime": 259,
+      "endTime": 261,
+      "text": "You know what you did",
+      "translation": "Você sabe o que fez"
+    },
+    {
+      "startTime": 261,
+      "endTime": 263,
+      "text": "She says he is my son",
+      "translation": "Ela diz que ele é meu filho"
+    },
+    {
+      "startTime": 263,
+      "endTime": 265,
+      "text": "Breaking my heart, babe",
+      "translation": "Partindo meu coração, babe"
+    },
+    {
+      "startTime": 265,
+      "endTime": 267,
+      "text": "She says I am the one",
+      "translation": "Ela diz que eu sou o escolhido"
+    },
+    {
+      "startTime": 267,
+      "endTime": 271,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 271,
+      "endTime": 275,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 275,
+      "endTime": 280,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 280,
+      "endTime": 284,
+      "text": "Billie Jean is not my lover, Don't Billie Jean",
+      "translation": "Billie Jean não é minha amante, Não faça isso Billie Jean"
+    },
+    {
+      "startTime": 284,
+      "endTime": 288,
+      "text": "Billie Jean is not my lover",
+      "translation": "Billie Jean não é minha amante"
+    },
+    {
+      "startTime": 288,
+      "endTime": 292,
+      "text": "Billie Jean",
+      "translation": "Billie Jean"
+    },
+    {
+      "startTime": 292,
+      "endTime": 296,
+      "text": "Billie Jean",
+      "translation": "Billie Jean"
     }
   ]
 }
