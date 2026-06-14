@@ -4,7 +4,13 @@ import cors from 'cors';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors());
+// CORS configurado para aceitar qualquer origem
+app.use(cors({
+    origin: '*',
+    methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type']
+}));
+
 app.use(express.json());
 
 function timestampToSeconds(timestamp) {
@@ -57,10 +63,18 @@ function parseSubtitleData(content) {
 }
 
 app.get('/api/transcript', async (req, res) => {
+    // Headers CORS adicionados manualmente para garantir
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Content-Type');
+    
     const videoId = req.query.videoId;
     
     if (!videoId) {
-        return res.status(400).json({ error: 'videoId é obrigatório' });
+        return res.status(400).json({ 
+            success: false,
+            error: 'videoId é obrigatório' 
+        });
     }
     
     console.log(`Buscando transcrição para: ${videoId}`);
@@ -118,6 +132,13 @@ app.get('/api/transcript', async (req, res) => {
             error: 'Erro interno do servidor'
         });
     }
+});
+
+app.options('/api/transcript', (req, res) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Content-Type');
+    res.sendStatus(200);
 });
 
 app.get('/', (req, res) => {
