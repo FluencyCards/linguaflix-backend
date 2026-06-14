@@ -7,6 +7,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
+// Função para converter timestamp para segundos
 function timestampToSeconds(timestamp) {
     const parts = timestamp.split(':');
     if (parts.length === 3) {
@@ -17,7 +18,8 @@ function timestampToSeconds(timestamp) {
     return 0;
 }
 
-function parseSubtitleData(content) {
+// Função para parse de legendas no formato WebVTT
+function parseWebVTT(content) {
     const segments = [];
     const lines = content.split('\n');
     let currentTime = null;
@@ -56,137 +58,7 @@ function parseSubtitleData(content) {
     return segments;
 }
 
-// ======================== 6 MÉTODOS DIFERENTES PARA OBTER TRANSCRIÇÃO ========================
-
-// Método 1: Piped API (gratuita, sem chave)
-async function fetchFromPiped(videoId) {
-    try {
-        const response = await fetch(`https://pipedapi.kavin.rocks/videos/${videoId}`);
-        if (!response.ok) return null;
-        const data = await response.json();
-        if (data.subtitles && data.subtitles.length > 0) {
-            const subtitle = data.subtitles.find(s => s.code === 'en' || s.code === 'en-US');
-            if (subtitle && subtitle.url) {
-                const subResponse = await fetch(subtitle.url);
-                const subData = await subResponse.text();
-                return parseSubtitleData(subData);
-            }
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Método 2: YouTube Transcript (gratuita, sem chave)
-async function fetchFromYoutubeTranscript(videoId) {
-    try {
-        const response = await fetch(`https://youtube-transcript.vercel.app/api/transcript?videoId=${videoId}`);
-        const data = await response.json();
-        if (data && Array.isArray(data) && data.length > 0) {
-            return data.map(segment => ({
-                startTime: segment.start,
-                text: segment.text
-            }));
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Método 3: LemnosLife API (gratuita, sem chave)
-async function fetchFromLemnosLife(videoId) {
-    try {
-        const response = await fetch(`https://yt.lemnoslife.com/noKey?videoId=${videoId}`);
-        const data = await response.json();
-        if (data.captions && data.captions.length > 0) {
-            const captionUrl = data.captions[0].url;
-            const subResponse = await fetch(captionUrl);
-            const subData = await subResponse.text();
-            return parseSubtitleData(subData);
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Método 4: YouTube API sem chave (método alternativo)
-async function fetchFromNoKeyAPI(videoId) {
-    try {
-        const response = await fetch(`https://youtube-api.vercel.app/api/transcript/${videoId}`);
-        const data = await response.json();
-        if (data && data.transcript && data.transcript.length > 0) {
-            return data.transcript.map(segment => ({
-                startTime: segment.start,
-                text: segment.text
-            }));
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Método 5: Outro serviço alternativo
-async function fetchFromAlternativeAPI(videoId) {
-    try {
-        const response = await fetch(`https://youtube-transcript-api.p.rapidapi.com/transcript?video_id=${videoId}`, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0'
-            }
-        });
-        if (response.ok) {
-            const data = await response.json();
-            if (data && data.length > 0) {
-                return data.map(segment => ({
-                    startTime: segment.start,
-                    text: segment.text
-                }));
-            }
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Método 6: Serviço do YouTube diretamente (scraping)
-async function fetchFromDirectYouTube(videoId) {
-    try {
-        const response = await fetch(`https://www.youtube.com/watch?v=${videoId}`);
-        const html = await response.text();
-        
-        // Busca pela URL das legendas no HTML
-        const match = html.match(/"captionTracks":\[\{"baseUrl":"([^"]+)"/);
-        if (match && match[1]) {
-            const transcriptUrl = match[1].replace(/\\u0026/g, '&');
-            const subResponse = await fetch(transcriptUrl);
-            const subData = await subResponse.text();
-            return parseSubtitleData(subData);
-        }
-        return null;
-    } catch(e) { return null; }
-}
-
-// Função principal que tenta todos os métodos
-async function fetchTranscript(videoId) {
-    const methods = [
-        { name: 'Piped API', fn: fetchFromPiped },
-        { name: 'YouTube Transcript', fn: fetchFromYoutubeTranscript },
-        { name: 'LemnosLife', fn: fetchFromLemnosLife },
-        { name: 'NoKey API', fn: fetchFromNoKeyAPI },
-        { name: 'Alternative API', fn: fetchFromAlternativeAPI },
-        { name: 'Direct YouTube', fn: fetchFromDirectYouTube }
-    ];
-    
-    for (const method of methods) {
-        try {
-            console.log(`Tentando: ${method.name}...`);
-            const result = await method.fn(videoId);
-            if (result && result.length > 0) {
-                console.log(`✅ Sucesso com ${method.name}! ${result.length} frases`);
-                return result;
-            }
-        } catch (e) {
-            console.log(`❌ ${method.name} falhou:`, e.message);
-        }
-    }
-    
-    return null;
-}
-
+// API principal usando o serviço mais confiável
 app.get('/api/transcript', async (req, res) => {
     const videoId = req.query.videoId;
     
@@ -197,19 +69,46 @@ app.get('/api/transcript', async (req, res) => {
     console.log(`Buscando transcrição para: ${videoId}`);
     
     try {
-        const transcript = await fetchTranscript(videoId);
+        // Usando o serviço gratuito do YouTube Transcript (sem bloqueio)
+        const response = await fetch(`https://youtubetranscript.com/?v=${videoId}`);
         
-        if (transcript && transcript.length > 0) {
-            return res.json({
-                success: true,
-                videoId: videoId,
-                transcript: transcript
-            });
+        if (response.ok) {
+            const data = await response.text();
+            // O retorno é XML/HTML, precisamos parsear
+            const segments = parseWebVTT(data);
+            
+            if (segments && segments.length > 0) {
+                console.log(`✅ Sucesso! ${segments.length} frases encontradas`);
+                return res.json({
+                    success: true,
+                    videoId: videoId,
+                    transcript: segments
+                });
+            }
+        }
+        
+        // Fallback: usar outra fonte
+        const fallbackResponse = await fetch(`https://yt.lemnoslife.com/noKey?videoId=${videoId}`);
+        const fallbackData = await fallbackResponse.json();
+        
+        if (fallbackData.captions && fallbackData.captions.length > 0) {
+            const captionUrl = fallbackData.captions[0].url;
+            const subResponse = await fetch(captionUrl);
+            const subData = await subResponse.text();
+            const segments = parseWebVTT(subData);
+            
+            if (segments && segments.length > 0) {
+                return res.json({
+                    success: true,
+                    videoId: videoId,
+                    transcript: segments
+                });
+            }
         }
         
         return res.json({
             success: false,
-            error: 'Este vídeo não possui legendas disponíveis em nenhuma das 6 fontes'
+            error: 'Este vídeo não possui legendas disponíveis'
         });
         
     } catch (error) {
