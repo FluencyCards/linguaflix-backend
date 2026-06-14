@@ -1,0 +1,55 @@
+{
+  "titulo": "Shape of You",
+  "artista": "Ed Sheeran",
+  "videoId": "JGwWNGJdvx8",
+  "timestamps": [
+    {
+      "startTime": 10,
+      "endTime": 14,
+      "text": "The club isn't the best place to find a lover",
+      "translation": "O clube não é o melhor lugar para encontrar um amor"
+    },
+    {
+      "startTime": 14,
+      "endTime": 18,
+      "text": "So the bar is where I go",
+      "translation": "Então o bar é onde eu vou"
+    },
+    {
+      "startTime": 18,
+      "endTime": 22,
+      "text": "Me and my friends at the table doing shots",
+      "translation": "Eu e meus amigos na mesa tomando shots"
+    },
+    {
+      "startTime": 22,
+      "endTime": 26,
+      "text": "Drinking fast and then we talk slow",
+      "translation": "Bebendo rápido e então falamos devagar"
+    },
+    {
+      "startTime": 26,
+      "endTime": 30,
+      "text": "You come over and start up a conversation with just me",
+      "translation": "Você se aproxima e começa uma conversa só comigo"
+    },
+    {
+      "startTime": 30,
+      "endTime": 34,
+      "text": "And trust me I'll give it a chance now",
+      "translation": "E confie em mim, vou dar uma chance agora"
+    },
+    {
+      "startTime": 34,
+      "endTime": 40,
+      "text": "Take my hand, stop, put Van The Man on the jukebox",
+      "translation": "Pegue minha mão, pare, coloque Van The Man na jukebox"
+    },
+    {
+      "startTime": 40,
+      "endTime": 46,
+      "text": "And then we start to dance, and now I'm singing like",
+      "translation": "E então começamos a dançar, e agora eu estou cantando como"
+    }
+  ]
+}
