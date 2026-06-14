@@ -1,0 +1,49 @@
+{
+  "titulo": "Bohemian Rhapsody",
+  "artista": "Queen",
+  "videoId": "fJ9rUzIMcZQ",
+  "timestamps": [
+    {
+      "startTime": 15,
+      "endTime": 20,
+      "text": "Is this the real life? Is this just fantasy?",
+      "translation": "Isso é a vida real? Isso é apenas fantasia?"
+    },
+    {
+      "startTime": 20,
+      "endTime": 24,
+      "text": "Caught in a landslide, no escape from reality",
+      "translation": "Pego em um deslizamento de terra, sem escapatória da realidade"
+    },
+    {
+      "startTime": 24,
+      "endTime": 28,
+      "text": "Open your eyes, look up to the skies and see",
+      "translation": "Abra seus olhos, olhe para os céus e veja"
+    },
+    {
+      "startTime": 28,
+      "endTime": 34,
+      "text": "I'm just a poor boy, I need no sympathy",
+      "translation": "Eu sou apenas um garoto pobre, não preciso de simpatia"
+    },
+    {
+      "startTime": 34,
+      "endTime": 40,
+      "text": "Because I'm easy come, easy go, little high, little low",
+      "translation": "Porque eu sou fácil de vir, fácil de ir, um pouco alto, um pouco baixo"
+    },
+    {
+      "startTime": 60,
+      "endTime": 65,
+      "text": "Mama, just killed a man",
+      "translation": "Mãe, acabei de matar um homem"
+    },
+    {
+      "startTime": 65,
+      "endTime": 70,
+      "text": "Put a gun against his head, pulled my trigger, now he's dead",
+      "translation": "Coloquei uma arma na cabeça dele, apertei o gatilho, agora ele está morto"
+    }
+  ]
+}
