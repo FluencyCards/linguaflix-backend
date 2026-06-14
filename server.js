@@ -56,6 +56,68 @@ function parseSubtitleData(content) {
     return segments;
 }
 
+// Função para tentar múltiplas APIs
+async function fetchTranscript(videoId) {
+    // Lista de APIs para tentar
+    const apis = [
+        // API 1: Piped
+        async () => {
+            const response = await fetch(`https://pipedapi.kavin.rocks/videos/${videoId}`);
+            if (!response.ok) return null;
+            const data = await response.json();
+            if (data.subtitles && data.subtitles.length > 0) {
+                const subtitle = data.subtitles.find(s => s.code === 'en' || s.code === 'en-US');
+                if (subtitle && subtitle.url) {
+                    const subResponse = await fetch(subtitle.url);
+                    const subData = await subResponse.text();
+                    return parseSubtitleData(subData);
+                }
+            }
+            return null;
+        },
+        // API 2: YouTube Transcript (fallback)
+        async () => {
+            const response = await fetch(`https://youtube-transcript.vercel.app/api/transcript?videoId=${videoId}`);
+            const data = await response.json();
+            if (data && Array.isArray(data) && data.length > 0) {
+                return data.map(segment => ({
+                    startTime: segment.start,
+                    text: segment.text
+                }));
+            }
+            return null;
+        },
+        // API 3: Outro serviço
+        async () => {
+            const response = await fetch(`https://yt.lemnoslife.com/noKey?videoId=${videoId}`);
+            const data = await response.json();
+            if (data.captions && data.captions.length > 0) {
+                const captionUrl = data.captions[0].url;
+                const subResponse = await fetch(captionUrl);
+                const subData = await subResponse.text();
+                return parseSubtitleData(subData);
+            }
+            return null;
+        }
+    ];
+    
+    // Tenta cada API em sequência
+    for (const api of apis) {
+        try {
+            console.log(`Tentando API...`);
+            const result = await api();
+            if (result && result.length > 0) {
+                console.log(`✅ Sucesso! ${result.length} frases`);
+                return result;
+            }
+        } catch (e) {
+            console.log(`API falhou:`, e.message);
+        }
+    }
+    
+    return null;
+}
+
 app.get('/api/transcript', async (req, res) => {
     const videoId = req.query.videoId;
     
@@ -66,27 +128,14 @@ app.get('/api/transcript', async (req, res) => {
     console.log(`Buscando transcrição para: ${videoId}`);
     
     try {
-        const response = await fetch(`https://pipedapi.kavin.rocks/videos/${videoId}`);
+        const transcript = await fetchTranscript(videoId);
         
-        if (response.ok) {
-            const data = await response.json();
-            
-            if (data.subtitles && data.subtitles.length > 0) {
-                const subtitle = data.subtitles.find(s => s.code === 'en' || s.code === 'en-US');
-                if (subtitle && subtitle.url) {
-                    const subResponse = await fetch(subtitle.url);
-                    const subData = await subResponse.text();
-                    const parsed = parseSubtitleData(subData);
-                    
-                    if (parsed && parsed.length > 0) {
-                        return res.json({
-                            success: true,
-                            videoId: videoId,
-                            transcript: parsed
-                        });
-                    }
-                }
-            }
+        if (transcript && transcript.length > 0) {
+            return res.json({
+                success: true,
+                videoId: videoId,
+                transcript: transcript
+            });
         }
         
         return res.json({
