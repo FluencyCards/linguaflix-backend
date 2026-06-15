@@ -1,0 +1,288 @@
+Aqui está o JSON completo com a letra de **"Summertime Sadness"** da **Lana Del Rey**, baseado no videoclipe oficial (`TdrL3QxjyVw`), totalmente sincronizado e traduzido para o português:
+
+```json
+{
+  "titulo": "Summertime Sadness",
+  "artista": "Lana Del Rey",
+  "videoId": "TdrL3QxjyVw",
+  "timestamps": [
+    {
+      "startTime": 17,
+      "endTime": 22,
+      "text": "Kiss me hard before you go",
+      "translation": "Beije-me com força antes de ir"
+    },
+    {
+      "startTime": 22,
+      "endTime": 26,
+      "text": "Summertime sadness",
+      "translation": "Tristeza de verão"
+    },
+    {
+      "startTime": 26,
+      "endTime": 30,
+      "text": "I just wanted you to know",
+      "translation": "Eu só queria que você soubesse"
+    },
+    {
+      "startTime": 30,
+      "endTime": 34,
+      "text": "That baby, you're the best",
+      "translation": "Que, querido, você é o melhor"
+    },
+    {
+      "startTime": 34,
+      "endTime": 38,
+      "text": "I got my red dress on tonight",
+      "translation": "Estou usando meu vestido vermelho esta noite"
+    },
+    {
+      "startTime": 38,
+      "endTime": 42,
+      "text": "Dancin' in the dark, in the pale moonlight",
+      "translation": "Dançando no escuro, sob a luz pálida do luar"
+    },
+    {
+      "startTime": 42,
+      "endTime": 46,
+      "text": "Done my hair up real big, beauty queen style",
+      "translation": "Arrumei meu cabelo bem alto, estilo rainha da beleza"
+    },
+    {
+      "startTime": 46,
+      "endTime": 52,
+      "text": "High heels off, I'm feelin' alive",
+      "translation": "Tirei os saltos altos, estou me sentindo viva"
+    },
+    {
+      "startTime": 52,
+      "endTime": 55,
+      "text": "Oh, my God, I feel it in the air",
+      "translation": "Ah, meu Deus, eu sinto isso no ar"
+    },
+    {
+      "startTime": 55,
+      "endTime": 64,
+      "text": "Telephone wires above are sizzlin' like a snare, honey, I'm on fire, I feel it everywhere",
+      "translation": "Os fios de telefone lá cima estão zumbindo como uma caixa de bateria, querido, estou pegando fogo, sinto isso em todo lugar"
+    },
+    {
+      "startTime": 64,
+      "endTime": 67,
+      "text": "Nothin' scares me anymore",
+      "translation": "Nada mais me assusta"
+    },
+    {
+      "startTime": 67,
+      "endTime": 73,
+      "text": "(Two, three, four) Kiss me hard before you go",
+      "translation": "(Dois, três, quatro) Beije-me com força antes de ir"
+    },
+    {
+      "startTime": 73,
+      "endTime": 78,
+      "text": "Summertime sadness",
+      "translation": "Tristeza de verão"
+    },
+    {
+      "startTime": 78,
+      "endTime": 82,
+      "text": "I just wanted you to know",
+      "translation": "Eu só queria que você soubesse"
+    },
+    {
+      "startTime": 82,
+      "endTime": 86,
+      "text": "That baby, you're the best",
+      "translation": "Que, querido, você é o melhor"
+    },
+    {
+      "startTime": 86,
+      "endTime": 91,
+      "text": "I got that summertime, summertime sadness",
+      "translation": "Estou com aquela tristeza, tristeza de verão"
+    },
+    {
+      "startTime": 91,
+      "endTime": 95,
+      "text": "Su-su-summertime, summertime sadness",
+      "translation": "Tristeza de ve-ve-verão, tristeza de verão"
+    },
+    {
+      "startTime": 95,
+      "endTime": 102,
+      "text": "Got that summertime, summertime sadness, oh, oh",
+      "translation": "Com aquela tristeza de verão, tristeza de verão, oh, oh"
+    },
+    {
+      "startTime": 102,
+      "endTime": 106,
+      "text": "I'm feelin' electric tonight",
+      "translation": "Estou me sentindo elétrica esta noite"
+    },
+    {
+      "startTime": 106,
+      "endTime": 111,
+      "text": "Cruisin' down the coast, goin' about 99",
+      "translation": "Dirigindo pela costa, a cerca de 99 milhas por hora"
+    },
+    {
+      "startTime": 111,
+      "endTime": 115,
+      "text": "Got my bad baby by my heavenly side",
+      "translation": "Com o meu garoto mau ao meu lado celestial"
+    },
+    {
+      "startTime": 115,
+      "endTime": 120,
+      "text": "I know if I go, I'll die happy tonight",
+      "translation": "Eu sei que se eu for, morrerei feliz esta noite"
+    },
+    {
+      "startTime": 120,
+      "endTime": 124,
+      "text": "Oh, my God, I feel it in the air",
+      "translation": "Ah, meu Deus, eu sinto isso no ar"
+    },
+    {
+      "startTime": 124,
+      "endTime": 133,
+      "text": "Telephone wires above are sizzlin' like a snare, honey, I'm on fire, I feel it everywhere",
+      "translation": "Os fios de telefone lá cima estão zumbindo como uma caixa de bateria, querido, estou pegando fogo, sinto isso em todo lugar"
+    },
+    {
+      "startTime": 133,
+      "endTime": 136,
+      "text": "Nothin' scares me anymore",
+      "translation": "Nada mais me assusta"
+    },
+    {
+      "startTime": 136,
+      "endTime": 142,
+      "text": "(Two, three, four) Kiss me hard before you go",
+      "translation": "(Dois, três, quatro) Beije-me com força antes de ir"
+    },
+    {
+      "startTime": 142,
+      "endTime": 146,
+      "text": "Summertime sadness",
+      "translation": "Tristeza de verão"
+    },
+    {
+      "startTime": 146,
+      "endTime": 150,
+      "text": "I just wanted you to know",
+      "translation": "Eu só queria que você soubesse"
+    },
+    {
+      "startTime": 150,
+      "endTime": 155,
+      "text": "That baby, you're the best",
+      "translation": "Que, querido, você é o melhor"
+    },
+    {
+      "startTime": 155,
+      "endTime": 159,
+      "text": "I got that summertime, summertime sadness",
+      "translation": "Estou com aquela tristeza, tristeza de verão"
+    },
+    {
+      "startTime": 159,
+      "endTime": 164,
+      "text": "Su-su-summertime, summertime sadness",
+      "translation": "Tristeza de ve-ve-verão, tristeza de verão"
+    },
+    {
+      "startTime": 164,
+      "endTime": 172,
+      "text": "Got that summertime, summertime sadness, oh, oh",
+      "translation": "Com aquela tristeza de verão, tristeza de verão, oh, oh"
+    },
+    {
+      "startTime": 172,
+      "endTime": 176,
+      "text": "Think I'll miss you forever",
+      "translation": "Acho que vou sentir sua falta para sempre"
+    },
+    {
+      "startTime": 176,
+      "endTime": 181,
+      "text": "Like the stars miss the sun in the morning sky",
+      "translation": "Como as estrelas sentem falta do sol no céu da manhã"
+    },
+    {
+      "startTime": 181,
+      "endTime": 184,
+      "text": "Later's better than never",
+      "translation": "Antes tarde do que nunca"
+    },
+    {
+      "startTime": 184,
+      "endTime": 189,
+      "text": "Even if you're gone, I'm gonna drive",
+      "translation": "Mesmo que você tenha partido, eu vou dirigir"
+    },
+    {
+      "startTime": 189,
+      "endTime": 198,
+      "text": "I got that summertime, summertime sadness",
+      "translation": "Estou com aquela tristeza, tristeza de verão"
+    },
+    {
+      "startTime": 198,
+      "endTime": 202,
+      "text": "Su-su-summertime, summertime sadness",
+      "translation": "Tristeza de ve-ve-verão, tristeza de verão"
+    },
+    {
+      "startTime": 202,
+      "endTime": 210,
+      "text": "Got that summertime, summertime sadness, oh, oh",
+      "translation": "Com aquela tristeza de verão, tristeza de verão, oh, oh"
+    },
+    {
+      "startTime": 210,
+      "endTime": 215,
+      "text": "Kiss me hard before you go",
+      "translation": "Beije-me com força antes de ir"
+    },
+    {
+      "startTime": 215,
+      "endTime": 219,
+      "text": "Summertime sadness",
+      "translation": "Tristeza de verão"
+    },
+    {
+      "startTime": 219,
+      "endTime": 223,
+      "text": "I just wanted you to know",
+      "translation": "Eu só queria que você soubesse"
+    },
+    {
+      "startTime": 223,
+      "endTime": 228,
+      "text": "That baby, you're the best",
+      "translation": "Que, querido, você é o melhor"
+    },
+    {
+      "startTime": 228,
+      "endTime": 232,
+      "text": "I got that summertime, summertime sadness",
+      "translation": "Estou com aquela tristeza, tristeza de verão"
+    },
+    {
+      "startTime": 232,
+      "endTime": 237,
+      "text": "Su-su-summertime, summertime sadness",
+      "translation": "Tristeza de ve-ve-verão, tristeza de verão"
+    },
+    {
+      "startTime": 237,
+      "endTime": 245,
+      "text": "Got that summertime, summertime sadness, oh, oh",
+      "translation": "Com aquela tristeza de verão, tristeza de verão, oh, oh"
+    }
+  ]
+}
+
+```
