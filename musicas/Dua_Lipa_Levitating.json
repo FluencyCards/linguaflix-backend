@@ -1,379 +1,493 @@
 {
-  "titulo": "Levitating (featuring DaBaby)",
+  "titulo": "Levitating (feat. DaBaby)",
   "artista": "Dua Lipa",
-  "videoId": "TUVcZfQe-Kw",
+  "videoId": "cTVFPdQIK84",
   "timestamps": [
     {
-      "startTime": 5,
-      "endTime": 9,
-      "text": "If you wanna run away with me, I know a galaxy and I can take you for a ride",
-      "translation": "Se você quiser fugir comigo, eu conheço uma galáxia e posso te levar para dar um passeio"
+      "startTime": "00:00:05",
+      "endTime": "00:00:07",
+      "text": "If you wanna run away with me, I know a galaxy",
+      "translation": "Se você quiser fugir comigo, eu conheço uma galáxia"
     },
     {
-      "startTime": 9,
-      "endTime": 13,
-      "text": "I had a premonition that we fell into a rhythm where the music don't stop for life",
-      "translation": "Eu tive uma premonição de que caímos em um ritmo onde a música não para pela vida toda"
+      "startTime": "00:00:07",
+      "endTime": "00:00:09",
+      "text": "And I can take you for a ride",
+      "translation": "E posso te levar para um passeio"
     },
     {
-      "startTime": 13,
-      "endTime": 17,
-      "text": "Glitter in the sky, glitter in my eyes, shining just the way I like",
-      "translation": "Brilho no céu, brilho nos meus olhos, brilhando exatamente do jeito que eu gosto"
+      "startTime": "00:00:09",
+      "endTime": "00:00:11",
+      "text": "I had a premonition that we fell into a rhythm",
+      "translation": "Eu tive uma premonição que nós caímos em um ritmo"
     },
     {
-      "startTime": 17,
-      "endTime": 21,
-      "text": "If you're feeling like you need a little bit of company, you met me at the perfect time",
-      "translation": "Se você está sentindo que precisa de um pouco de companhia, você me conheceu no momento perfeito"
+      "startTime": "00:00:11",
+      "endTime": "00:00:14",
+      "text": "Where the music don't stop for life",
+      "translation": "Onde a música não para nunca"
     },
     {
-      "startTime": 21,
-      "endTime": 25,
-      "text": "You want me, I want you, baby, my sugarboo, I'm levitating",
-      "translation": "Você me quer, eu quero você, querido, meu amorzinho, estou levitando"
+      "startTime": "00:00:14",
+      "endTime": "00:00:16",
+      "text": "Glitter in the sky, glitter in my eyes",
+      "translation": "Glíter no céu, glíter em meus olhos"
     },
     {
-      "startTime": 25,
-      "endTime": 29,
-      "text": "The Milky Way, we're renegading, yeah-yeah-yeah-yeah",
-      "translation": "A Via Láctea, estamos quebrando as regras, yeah-yeah-yeah-yeah"
+      "startTime": "00:00:16",
+      "endTime": "00:00:19",
+      "text": "Shining just the way I like",
+      "translation": "Brilhando do jeitinho que eu gosto"
     },
     {
-      "startTime": 29,
-      "endTime": 33,
-      "text": "I got you, moonlight, you're my starlight",
-      "translation": "Eu tenho você, luar, você é a minha luz das estrelas"
+      "startTime": "00:00:19",
+      "endTime": "00:00:21",
+      "text": "If you're feeling like you need a little bit of company",
+      "translation": "Se você sente que precisa de um pouco de companhia"
     },
     {
-      "startTime": 33,
-      "endTime": 37,
-      "text": "I need you all night, come on, dance with me",
-      "translation": "Eu preciso de você a noite toda, vamos lá, dance comigo"
+      "startTime": "00:00:21",
+      "endTime": "00:00:24",
+      "text": "You met me at the perfect time",
+      "translation": "Você me conheceu no momento perfeito"
     },
     {
-      "startTime": 37,
-      "endTime": 41,
-      "text": "I'm levitating",
-      "translation": "Estou levitando"
+      "startTime": "00:00:24",
+      "endTime": "00:00:25",
+      "text": "You want me, I want you, baby",
+      "translation": "Você me quer, eu quero você, meu bem"
     },
     {
-      "startTime": 41,
-      "endTime": 44,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
+      "startTime": "00:00:26",
+      "endTime": "00:00:29",
+      "text": "My sugarboo, I'm levitating",
+      "translation": "Meu docinho, estou levitando"
     },
     {
-      "startTime": 44,
-      "endTime": 48,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
-    },
-    {
-      "startTime": 48,
-      "endTime": 52,
-      "text": "Baby, let me take you for a ride",
-      "translation": "Querido, deixe-me te levar para dar um passeio"
-    },
-    {
-      "startTime": 52,
-      "endTime": 54,
-      "text": "(Yeah, yeah, yeah, yeah, yeah)",
-      "translation": "(Yeah, yeah, yeah, yeah, yeah)"
-    },
-    {
-      "startTime": 54,
-      "endTime": 56,
-      "text": "I'm one of the greatest, ain't no debatin' on it",
-      "translation": "Eu sou um dos maiores, não há debate sobre isso"
-    },
-    {
-      "startTime": 56,
-      "endTime": 58,
-      "text": "I'm still levitated, I'm heavily medicated",
-      "translation": "Eu ainda estou levitado, estou fortemente medicado"
-    },
-    {
-      "startTime": 58,
-      "endTime": 60,
-      "text": "Ironic, I gave 'em love and they end up hatin' on me",
-      "translation": "Irônico, eu dei amor a eles e eles acabaram me odiando"
-    },
-    {
-      "startTime": 60,
-      "endTime": 62,
-      "text": "She told me she loved me and she been waitin'",
-      "translation": "Ela me disse que me amava e que estava esperando"
-    },
-    {
-      "startTime": 62,
-      "endTime": 64,
-      "text": "Fighting hard for your love and I'm running thin on my patience",
-      "translation": "Lutando duro pelo seu amor e minha paciência está se esgotando"
-    },
-    {
-      "startTime": 64,
-      "endTime": 66,
-      "text": "Needing someone to hug, you know, took it back to the basics",
-      "translation": "Precisando de alguém para abraçar, sabe, voltando ao básico"
-    },
-    {
-      "startTime": 66,
-      "endTime": 68,
-      "text": "You see what you got me out here doing?",
-      "translation": "Você vê o que me fez ficar fazendo aqui fora?"
-    },
-    {
-      "startTime": 68,
-      "endTime": 110,
-      "text": "Might've threw me off, but can't nobody stop the movement, uh-uh",
-      "translation": "Pode ter me desestabilizado, mas ninguém pode parar o movimento, uh-uh"
-    },
-    {
-      "startTime": 110,
-      "endTime": 112,
-      "text": "Let's go, left foot, right foot, levitating",
-      "translation": "Vamos lá, pé esquerdo, pé direito, levitando"
-    },
-    {
-      "startTime": 112,
-      "endTime": 114,
-      "text": "Pop stars, Dua Lipa with DaBaby",
-      "translation": "Estrelas pop, Dua Lipa com DaBaby"
-    },
-    {
-      "startTime": 114,
-      "endTime": 116,
-      "text": "I had to lace my shoes for all the blessings I was chasing",
-      "translation": "Tive que amarrar meus sapatos para todas as bênçãos que estava perseguindo"
-    },
-    {
-      "startTime": 116,
-      "endTime": 118,
-      "text": "If I ever slip, I fall into a better situation",
-      "translation": "Se eu vacilar, caio em uma situação melhor"
-    },
-    {
-      "startTime": 118,
-      "endTime": 121,
-      "text": "So catch up, go put some cheese on it, get out and get your bread up",
-      "translation": "Então alcance, vá colocar uma grana nisso, saia e vá ganhar seu dinheiro"
-    },
-    {
-      "startTime": 121,
-      "endTime": 123,
-      "text": "They always leaving you far, but you run to get her",
-      "translation": "Eles sempre te deixam para trás, mas você corre para alcançá-la"
-    },
-    {
-      "startTime": 123,
-      "endTime": 125,
-      "text": "Weight of the world on my shoulders, I kept my head up",
-      "translation": "O peso do mundo nos meus ombros, mantive minha cabeça erguida"
-    },
-    {
-      "startTime": 125,
-      "endTime": 127,
-      "text": "Now baby, stand up, 'cause girl, you",
-      "translation": "Agora querida, levante-se, porque garota, você"
-    },
-    {
-      "startTime": 127,
-      "endTime": 131,
-      "text": "You want me, I want you, baby, my sugarboo, I'm levitating",
-      "translation": "Você me quer, eu quero você, querido, meu amorzinho, estou levitando"
-    },
-    {
-      "startTime": 131,
-      "endTime": 135,
-      "text": "The Milky Way, we're renegading, yeah-yeah-yeah-yeah",
-      "translation": "A Via Láctea, estamos quebrando as regras, yeah-yeah-yeah-yeah"
-    },
-    {
-      "startTime": 135,
-      "endTime": 139,
-      "text": "I got you, moonlight, you're my starlight",
-      "translation": "Eu tenho você, luar, você é a minha luz das estrelas"
-    },
-    {
-      "startTime": 139,
-      "endTime": 143,
-      "text": "I need you all night, come on, dance with me",
-      "translation": "Eu preciso de você a noite toda, vamos lá, dance comigo"
-    },
-    {
-      "startTime": 143,
-      "endTime": 146,
-      "text": "I'm levitating",
-      "translation": "Estou levitando"
-    },
-    {
-      "startTime": 146,
-      "endTime": 150,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
-    },
-    {
-      "startTime": 150,
-      "endTime": 154,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
-    },
-    {
-      "startTime": 154,
-      "endTime": 158,
-      "text": "Baby, let me take you for a ride",
-      "translation": "Querido, deixe-me te levar para dar um passeio"
-    },
-    {
-      "startTime": 158,
-      "endTime": 200,
-      "text": "(Yeah, yeah, yeah, yeah, yeah)",
-      "translation": "(Yeah, yeah, yeah, yeah, yeah)"
-    },
-    {
-      "startTime": 200,
-      "endTime": 204,
-      "text": "My love is like a rocket, watch it blow up",
-      "translation": "Meu amor é como um foguete, assista ele explodir"
-    },
-    {
-      "startTime": 204,
-      "endTime": 208,
-      "text": "And I'm feeling so electric, dance my ass off",
-      "translation": "E estou me sentindo tão elétrica, dançando até cansar"
-    },
-    {
-      "startTime": 208,
-      "endTime": 212,
-      "text": "And even if I wanted to, I can't stop",
-      "translation": "E mesmo se eu quisesse, não consigo parar"
-    },
-    {
-      "startTime": 212,
-      "endTime": 216,
-      "text": "Yeah, yeah, yeah, yeah, yeah",
-      "translation": "Yeah, yeah, yeah, yeah, yeah"
-    },
-    {
-      "startTime": 216,
-      "endTime": 220,
-      "text": "My love is like a rocket, watch it blow up",
-      "translation": "Meu amor é como um foguete, assista ele explodir"
-    },
-    {
-      "startTime": 220,
-      "endTime": 224,
-      "text": "And I'm feeling so electric, dance my ass off",
-      "translation": "E estou me sentindo tão elétrica, dançando até cansar"
-    },
-    {
-      "startTime": 224,
-      "endTime": 228,
-      "text": "And even if I wanted to, I can't stop",
-      "translation": "E mesmo se eu quisesse, não consigo parar"
-    },
-    {
-      "startTime": 228,
-      "endTime": 232,
-      "text": "Yeah, yeah, yeah, yeah, yeah",
-      "translation": "Yeah, yeah, yeah, yeah, yeah"
-    },
-    {
-      "startTime": 232,
-      "endTime": 236,
-      "text": "You want me, I want you, baby, my sugarboo, I'm levitating",
-      "translation": "Você me quer, eu quero você, querido, meu amorzinho, estou levitando"
-    },
-    {
-      "startTime": 236,
-      "endTime": 240,
+      "startTime": "00:00:29",
+      "endTime": "00:00:31",
       "text": "The Milky Way, we're renegading",
-      "translation": "A Via Láctea, estamos quebrando as regras"
+      "translation": "A Via Láctea, estamos renegando"
     },
     {
-      "startTime": 240,
-      "endTime": 244,
+      "startTime": "00:00:31",
+      "endTime": "00:00:33",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:00:33",
+      "endTime": "00:00:37",
       "text": "I got you, moonlight, you're my starlight",
-      "translation": "Eu tenho você, luar, você é a minha luz das estrelas"
+      "translation": "Eu peguei você, luar, você é minha luz das estrelas"
     },
     {
-      "startTime": 244,
-      "endTime": 248,
+      "startTime": "00:00:37",
+      "endTime": "00:00:41",
       "text": "I need you all night, come on, dance with me",
-      "translation": "Eu preciso de você a noite toda, vamos lá, dance comigo"
+      "translation": "Eu preciso de você a noite toda, venha dançar comigo"
     },
     {
-      "startTime": 248,
-      "endTime": 252,
+      "startTime": "00:00:42",
+      "endTime": "00:00:43",
       "text": "I'm levitating",
       "translation": "Estou levitando"
     },
     {
-      "startTime": 252,
-      "endTime": 256,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
+      "startTime": "00:00:43",
+      "endTime": "00:00:47",
+      "text": "You, moonlight, you're my starlight (You're the moonlight)",
+      "translation": "Você, luar, você é minha luz das estrelas (Você é o luar)"
     },
     {
-      "startTime": 256,
-      "endTime": 300,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
-    },
-    {
-      "startTime": 300,
-      "endTime": 303,
-      "text": "Baby, let me take you for a ride",
-      "translation": "Querido, deixe-me te levar para dar um passeio"
-    },
-    {
-      "startTime": 303,
-      "endTime": 307,
-      "text": "(Yeah, yeah, yeah, yeah, yeah)",
-      "translation": "(Yeah, yeah, yeah, yeah, yeah)"
-    },
-    {
-      "startTime": 307,
-      "endTime": 311,
-      "text": "I got you, moonlight, you're my starlight",
-      "translation": "Eu tenho você, luar, você é a minha luz das estrelas"
-    },
-    {
-      "startTime": 311,
-      "endTime": 315,
+      "startTime": "00:00:47",
+      "endTime": "00:00:51",
       "text": "I need you all night, come on, dance with me",
-      "translation": "Eu preciso de você a noite toda, vamos lá, dance comigo"
+      "translation": "Eu preciso de você a noite toda, vamos, dance comigo"
     },
     {
-      "startTime": 315,
-      "endTime": 319,
+      "startTime": "00:00:51",
+      "endTime": "00:00:52",
       "text": "I'm levitating",
       "translation": "Estou levitando"
     },
     {
-      "startTime": 319,
-      "endTime": 323,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
+      "startTime": "00:00:52",
+      "endTime": "00:00:54",
+      "text": "I'm one of the greatest, ain't no debatin' on it (Let's go)",
+      "translation": "Eu sou um dos melhores, não tenho dúvidas sobre isso (vamos lá)"
     },
     {
-      "startTime": 323,
-      "endTime": 327,
-      "text": "You can fly away with me tonight",
-      "translation": "Você pode voar para longe comigo esta noite"
+      "startTime": "00:00:55",
+      "endTime": "00:00:57",
+      "text": "I'm still levitating, I'm heavily medicated",
+      "translation": "Eu ainda estou levitando, estou fortemente medicado"
     },
     {
-      "startTime": 327,
-      "endTime": 331,
+      "startTime": "00:00:57",
+      "endTime": "00:00:59",
+      "text": "Ironic I gave 'em love, and they end up hatin' on me (Go)",
+      "translation": "Ironicamente eu dou amor, e acabo recebendo ódio (Vai)"
+    },
+    {
+      "startTime": "00:00:59",
+      "endTime": "00:01:01",
+      "text": "She told me love me, and she been waitin'",
+      "translation": "Ela me diz que me ama, e que está esperando"
+    },
+    {
+      "startTime": "00:01:01",
+      "endTime": "00:01:03",
+      "text": "Been fightin' hard for your love and I'm running thin on my patience",
+      "translation": "Tenho lutado muito pelo seu amor e estou ficando sem paciência"
+    },
+    {
+      "startTime": "00:01:03",
+      "endTime": "00:01:05",
+      "text": "Needin' someone to hug, even took it back to the basics",
+      "translation": "Preciso de alguém para abraçar, até estou voltando às origens"
+    },
+    {
+      "startTime": "00:01:05",
+      "endTime": "00:01:07",
+      "text": "You see what you got me out here doin' (Yeah)",
+      "translation": "Viu o que você me fez fazer aqui? (sim)"
+    },
+    {
+      "startTime": "00:01:07",
+      "endTime": "00:01:08",
+      "text": "Might've threw me off",
+      "translation": "Pode até me descartar"
+    },
+    {
+      "startTime": "00:01:08",
+      "endTime": "00:01:09",
+      "text": "But can't nobody stop the movement (Uh huh)",
+      "translation": "Mas ninguém consegue parar o movimento (Uh huh)"
+    },
+    {
+      "startTime": "00:01:10",
+      "endTime": "00:01:12",
+      "text": "Let's go, left foot, right foot, levitatin' (C'mon)",
+      "translation": "Vamos lá, pé esquerdo, pé direito, levitando (vamos lá)"
+    },
+    {
+      "startTime": "00:01:13",
+      "endTime": "00:01:15",
+      "text": "Popstars (Go), Dua Lipa with DaBaby",
+      "translation": "Estrelas do pop (Vai), Dua Lipa com DaBaby"
+    },
+    {
+      "startTime": "00:01:15",
+      "endTime": "00:01:17",
+      "text": "I had to lace my shoes for all the blessings I was chasin' (Go)",
+      "translation": "Eu tive que amarrar meus sapatos por tantas bênçãos que eu busquei (Vai)"
+    },
+    {
+      "startTime": "00:01:17",
+      "endTime": "00:01:20",
+      "text": "If I ever slip I fall into a better situation",
+      "translation": "Se alguma vez eu escorregar eu caio em uma situação melhor"
+    },
+    {
+      "startTime": "00:01:20",
+      "endTime": "00:01:21",
+      "text": "So catch up, go put some cheese on it",
+      "translation": "Então, preste atenção, vá colocar dinheiro nisso"
+    },
+    {
+      "startTime": "00:01:21",
+      "endTime": "00:01:23",
+      "text": "Get out and get your bread up (Yeah, yeah)",
+      "translation": "Saia e corra atrás do seu dinheiro (Sim, sim)"
+    },
+    {
+      "startTime": "00:01:23",
+      "endTime": "00:01:25",
+      "text": "They always leave when you fall, but you run together (Hey)",
+      "translation": "Eles sempre vão embora quando você cai, mas você corre junto (Hey)"
+    },
+    {
+      "startTime": "00:01:25",
+      "endTime": "00:01:27",
+      "text": "Weight of the world on my shoulders, I kept my head up",
+      "translation": "O peso do mundo em meus ombros, eu continuo de cabeça erguida"
+    },
+    {
+      "startTime": "00:01:28",
+      "endTime": "00:01:29",
+      "text": "Now, baby, stand up, 'cause, girl, you",
+      "translation": "Agora, querida, levante, porque, garota, você"
+    },
+    {
+      "startTime": "00:01:30",
+      "endTime": "00:01:32",
+      "text": "You want me, I want you, baby",
+      "translation": "Você me quer, eu quero você, meu bem"
+    },
+    {
+      "startTime": "00:01:32",
+      "endTime": "00:01:34",
+      "text": "My sugarboo, I'm levitating",
+      "translation": "Meu docinho, estou levitando"
+    },
+    {
+      "startTime": "00:01:34",
+      "endTime": "00:01:36",
+      "text": "The Milky Way, we're renegading",
+      "translation": "A Via Láctea, estamos renegando"
+    },
+    {
+      "startTime": "00:01:36",
+      "endTime": "00:01:38",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:01:38",
+      "endTime": "00:01:42",
+      "text": "I got you, moonlight, you're my starlight",
+      "translation": "Eu peguei você, luar, você é minha luz das estrelas"
+    },
+    {
+      "startTime": "00:01:43",
+      "endTime": "00:01:47",
+      "text": "I need you all night, come on, dance with me",
+      "translation": "Eu preciso de você a noite toda, venha dançar comigo"
+    },
+    {
+      "startTime": "00:01:47",
+      "endTime": "00:01:48",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
+    },
+    {
+      "startTime": "00:01:48",
+      "endTime": "00:01:52",
+      "text": "You, moonlight, you're my starlight (You're the moonlight)",
+      "translation": "Você, luar, você é minha luz das estrelas (Você é o luar)"
+    },
+    {
+      "startTime": "00:01:52",
+      "endTime": "00:01:56",
+      "text": "I need you all night, come on, dance with me",
+      "translation": "Eu preciso de você a noite toda, vamos, dance comigo"
+    },
+    {
+      "startTime": "00:01:56",
+      "endTime": "00:01:57",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
+    },
+    {
+      "startTime": "00:01:58",
+      "endTime": "00:02:00",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:00",
+      "endTime": "00:02:02",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:02",
+      "endTime": "00:02:04",
       "text": "Baby, let me take you for a ride",
-      "translation": "Querido, deixe-me te levar para dar um passeio"
+      "translation": "Amor, deixe-me levá-lo para um passeio"
     },
     {
-      "startTime": 331,
-      "endTime": 335,
-      "text": "(Yeah, yeah, yeah, yeah, yeah)",
-      "translation": "(Yeah, yeah, yeah, yeah, yeah)"
+      "startTime": "00:02:04",
+      "endTime": "00:02:06",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:02:06",
+      "endTime": "00:02:07",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
+    },
+    {
+      "startTime": "00:02:07",
+      "endTime": "00:02:09",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:09",
+      "endTime": "00:02:11",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:11",
+      "endTime": "00:02:13",
+      "text": "Baby, let me take you for a ride",
+      "translation": "Amor, deixe-me levá-lo para um passeio"
+    },
+    {
+      "startTime": "00:02:13",
+      "endTime": "00:02:15",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:02:16",
+      "endTime": "00:02:18",
+      "text": "My love is like a rocket, watch it blast off",
+      "translation": "Meu amor é como um foguete, assista-o decolar"
+    },
+    {
+      "startTime": "00:02:18",
+      "endTime": "00:02:20",
+      "text": "And I'm feeling so electric, dance my *ss off",
+      "translation": "E eu estou me sentindo tão elétrica, danço pra caramba"
+    },
+    {
+      "startTime": "00:02:20",
+      "endTime": "00:02:22",
+      "text": "And even if I wanted to, I can't stop",
+      "translation": "E mesmo que eu quisesse, não posso parar"
+    },
+    {
+      "startTime": "00:02:23",
+      "endTime": "00:02:25",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:02:25",
+      "endTime": "00:02:27",
+      "text": "My love is like a rocket, watch it blast off",
+      "translation": "Meu amor é como um foguete, assista-o decolar"
+    },
+    {
+      "startTime": "00:02:27",
+      "endTime": "00:02:29",
+      "text": "And I'm feeling so electric, dance my *ss off",
+      "translation": "E eu estou me sentindo tão elétrica, danço pra caramba"
+    },
+    {
+      "startTime": "00:02:30",
+      "endTime": "00:02:32",
+      "text": "And even if I wanted to, I can't stop",
+      "translation": "E mesmo que eu quisesse, não posso parar"
+    },
+    {
+      "startTime": "00:02:32",
+      "endTime": "00:02:34",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:02:35",
+      "endTime": "00:02:36",
+      "text": "You want me, I want you, baby",
+      "translation": "Você me quer, eu quero você, meu bem"
+    },
+    {
+      "startTime": "00:02:37",
+      "endTime": "00:02:39",
+      "text": "My sugarboo, I'm levitating",
+      "translation": "Meu docinho, estou levitando"
+    },
+    {
+      "startTime": "00:02:39",
+      "endTime": "00:02:41",
+      "text": "The Milky Way, we're renegading",
+      "translation": "A Via Láctea, estamos renegando"
+    },
+    {
+      "startTime": "00:02:43",
+      "endTime": "00:02:48",
+      "text": "I got you, moonlight, you're my starlight",
+      "translation": "Eu peguei você, luar, você é minha luz das estrelas"
+    },
+    {
+      "startTime": "00:02:48",
+      "endTime": "00:02:52",
+      "text": "I need you all night, come on, dance with me",
+      "translation": "Eu preciso de você a noite toda, venha dançar comigo"
+    },
+    {
+      "startTime": "00:02:52",
+      "endTime": "00:02:53",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
+    },
+    {
+      "startTime": "00:02:53",
+      "endTime": "00:02:56",
+      "text": "(Woo) You can fly away with me tonight",
+      "translation": "(Woo) Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:56",
+      "endTime": "00:02:58",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:02:58",
+      "endTime": "00:03:00",
+      "text": "Baby, let me take you for a ride",
+      "translation": "Amor, deixe-me levá-lo para um passeio"
+    },
+    {
+      "startTime": "00:03:00",
+      "endTime": "00:03:02",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:03:02",
+      "endTime": "00:03:03",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
+    },
+    {
+      "startTime": "00:03:03",
+      "endTime": "00:03:05",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:03:05",
+      "endTime": "00:03:07",
+      "text": "You can fly away with me tonight",
+      "translation": "Você pode voar comigo esta noite"
+    },
+    {
+      "startTime": "00:03:08",
+      "endTime": "00:03:10",
+      "text": "Baby, let me take you for a ride",
+      "translation": "Amor, deixe-me levá-lo para um passeio"
+    },
+    {
+      "startTime": "00:03:10",
+      "endTime": "00:03:11",
+      "text": "Yeah, yeah, yeah, yeah, yeah",
+      "translation": "Yeah, yeah, yeah, yeah, yeah"
+    },
+    {
+      "startTime": "00:03:11",
+      "endTime": "00:03:16",
+      "text": "I got you, moonlight, you're my starlight",
+      "translation": "Eu peguei você, luar, você é minha luz das estrelas"
+    },
+    {
+      "startTime": "00:03:16",
+      "endTime": "00:03:20",
+      "text": "I need you all night, come on, dance with me",
+      "translation": "Eu preciso de você a noite toda, venha dançar comigo"
+    },
+    {
+      "startTime": "00:03:20",
+      "endTime": "00:03:22",
+      "text": "I'm levitating",
+      "translation": "Estou levitando"
     }
   ]
 }
