@@ -4,220 +4,256 @@
   "videoId": "30gbL44vjA8",
   "timestamps": [
     {
-      "startTime": 6,
-      "endTime": 8,
-      "text": "na-na, yeah",
-      "translation": "na-na, sim"
+      "startTime": 0,
+      "endTime": 4,
+      "text": "Na-na, yeah",
+      "translation": "Na-na, sim"
     },
     {
-      "startTime": 8,
-      "endTime": 12,
+      "startTime": 21,
+      "endTime": 25,
       "text": "I saw you dancing in a crowded room, uh",
       "translation": "Eu vi você dançando em uma sala cheia, uh"
     },
     {
-      "startTime": 12,
-      "endTime": 17,
+      "startTime": 25,
+      "endTime": 29,
       "text": "You look so happy when I'm not with you",
       "translation": "Você parece tão feliz quando não estou com você"
     },
     {
-      "startTime": 17,
-      "endTime": 20,
+      "startTime": 29,
+      "endTime": 33,
       "text": "But then you saw me, caught you by surprise",
       "translation": "Mas aí você me viu, te peguei de surpresa"
     },
     {
-      "startTime": 20,
-      "endTime": 24,
+      "startTime": 33,
+      "endTime": 37,
       "text": "A single teardrop falling from your eye",
       "translation": "Uma única lágrima caindo do seu olho"
     },
     {
-      "startTime": 24,
-      "endTime": 30,
+      "startTime": 37,
+      "endTime": 41,
       "text": "I don't know why I run away",
       "translation": "Eu não sei por que eu fujo"
     },
     {
-     "startTime": 30,
-      "endTime": 40,
+      "startTime": 41,
+      "endTime": 45,
       "text": "I'll make you cry when I run away",
       "translation": "Eu te faço chorar quando eu fujo"
     },
     {
-      "startTime": 40,
-      "endTime": 45,
+      "startTime": 53,
+      "endTime": 57,
       "text": "You could've asked me why I broke your heart",
       "translation": "Você poderia ter me perguntado por que quebrei seu coração"
     },
     {
-      "startTime": 45,
-      "endTime": 50,
+      "startTime": 57,
+      "endTime": 61,
       "text": "You could've told me that you fell apart",
       "translation": "Você poderia ter me dito que você desmoronou"
     },
     {
-      "startTime": 50,
-      "endTime": 53,
+      "startTime": 61,
+      "endTime": 65,
       "text": "But you walked past me like I wasn't there",
       "translation": "Mas você passou por mim como se eu não estivesse lá"
     },
     {
-      "startTime": 53,
-      "endTime": 58,
+      "startTime": 65,
+      "endTime": 69,
       "text": "And just pretended like you didn't care",
       "translation": "E apenas fingiu que não se importava"
     },
     {
-      "startTime": 58,
-      "endTime": 70,
+      "startTime": 69,
+      "endTime": 73,
       "text": "I don't know why I run away",
       "translation": "Eu não sei por que eu fujo"
     },
     {
-      "startTime": 70,
-      "endTime": 74,
+      "startTime": 73,
+      "endTime": 77,
       "text": "I'll make you cry when I run away",
       "translation": "Eu te faço chorar quando eu fujo"
     },
     {
-      "startTime": 74,
-      "endTime": 78,
+      "startTime": 77,
+      "endTime": 81,
       "text": "Take me back 'cause I wanna stay",
       "translation": "Me leve de volta porque eu quero ficar"
     },
     {
-      "startTime": 78,
-      "endTime": 81,
+      "startTime": 81,
+      "endTime": 84,
       "text": "Save your tears for another",
       "translation": "Guarde suas lágrimas para outro"
     },
     {
-      "startTime": 81,
-      "endTime": 85,
+      "startTime": 84,
+      "endTime": 88,
       "text": "Save your tears for another day",
       "translation": "Guarde suas lágrimas para outro dia"
     },
     {
-      "startTime": 85,
-      "endTime": 94,
-      "text": "Save your tears for another day",
-      "translation": "Guarde suas lágrimas para outro dia"
-    },
-    {
-      "startTime": 94,
+      "startTime": 88,
       "endTime": 96,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 96,
+      "endTime": 98,
       "text": "So",
       "translation": "Então"
     },
     {
-      "startTime": 96,
-      "endTime": 104,
+      "startTime": 98,
+      "endTime": 102,
       "text": "I made you think that I would always stay",
       "translation": "Eu fiz você pensar que eu sempre ficaria"
     },
     {
-      "startTime": 104,
-      "endTime": 111,
+      "startTime": 102,
+      "endTime": 106,
       "text": "I said some things that I should never say",
       "translation": "Eu disse algumas coisas que eu nunca deveria dizer"
     },
     {
-      "startTime": 111,
-      "endTime": 119,
+      "startTime": 106,
+      "endTime": 110,
       "text": "Yeah, I broke your heart like someone did to mine",
       "translation": "Sim, eu quebrei seu coração como alguém fez com o meu"
     },
     {
-      "startTime": 119,
-      "endTime": 128,
+      "startTime": 110,
+      "endTime": 114,
       "text": "And now you won't love me for a second time",
       "translation": "E agora você não vai me amar por uma segunda vez"
     },
     {
-      "startTime": 128,
-      "endTime": 132,
-      "text": "I don't know why I run away\nOh, girl",
-      "translation": "Eu não sei por que eu fujo\nOh, garota"
-    },
-    {
-      "startTime": 132,
-      "endTime": 136,
-      "text": "Said, I'll make you cry when I run away",
-      "translation": "Disse, eu te faço chorar quando eu fujo"
-    },
-    {
-      "startTime": 136,
-      "endTime": 140,
-      "text": "Girl, take me back 'cause I wanna stay",
-      "translation": "Garota, me leve de volta porque eu quero ficar"
-    },
-    {
-      "startTime": 140,
-      "endTime": 143,
-      "text": "Save your tears for another",
-      "translation": "Guarde suas lágrimas para outro"
-    },
-    {
-      "startTime": 143,
-      "endTime": 147,
-      "text": "I realize that I'm much too late",
-      "translation": "Eu percebo que estou atrasado demais"
-    },
-    {
-      "startTime": 147,
-      "endTime": 151,
-      "text": "And you deserve someone better",
-      "translation": "E você merece alguém melhor"
-    },
-    {
-      "startTime": 151,
-      "endTime": 155,
-      "text": "Save your tears for another day (oh, yeah)",
-      "translation": "Guarde suas lágrimas para outro dia (oh, sim)"
-    },
-    {
-      "startTime": 155,
-      "endTime": 164,
-      "text": "Save your tears for another day (yeah)",
-      "translation": "Guarde suas lágrimas para outro dia (sim)"
-    },
-    {
-      "startTime": 164,
-      "endTime": 168,
+      "startTime": 114,
+      "endTime": 118,
       "text": "I don't know why I run away",
       "translation": "Eu não sei por que eu fujo"
     },
     {
-      "startTime": 168,
-      "endTime": 173,
+      "startTime": 118,
+      "endTime": 122,
+      "text": "Oh, girl, I'll make you cry when I run away",
+      "translation": "Oh, garota, eu te faço chorar quando eu fujo"
+    },
+    {
+      "startTime": 122,
+      "endTime": 126,
+      "text": "Girl, take me back 'cause I wanna stay",
+      "translation": "Garota, me leve de volta porque eu quero ficar"
+    },
+    {
+      "startTime": 126,
+      "endTime": 129,
+      "text": "Save your tears for another",
+      "translation": "Guarde suas lágrimas para outro"
+    },
+    {
+      "startTime": 129,
+      "endTime": 133,
+      "text": "I realize that I'm much too late",
+      "translation": "Eu percebo que estou atrasado demais"
+    },
+    {
+      "startTime": 133,
+      "endTime": 137,
+      "text": "And you deserve someone better",
+      "translation": "E você merece alguém melhor"
+    },
+    {
+      "startTime": 137,
+      "endTime": 141,
+      "text": "Save your tears for another day (oh, yeah)",
+      "translation": "Guarde suas lágrimas para outro dia (oh, sim)"
+    },
+    {
+      "startTime": 141,
+      "endTime": 149,
+      "text": "Save your tears for another day (yeah)",
+      "translation": "Guarde suas lágrimas para outro dia (sim)"
+    },
+    {
+      "startTime": 149,
+      "endTime": 153,
+      "text": "I don't know why I run away",
+      "translation": "Eu não sei por que eu fujo"
+    },
+    {
+      "startTime": 153,
+      "endTime": 157,
       "text": "I'll make you cry when I run away",
       "translation": "Eu te faço chorar quando eu fujo"
     },
     {
-      "startTime": 173,
+      "startTime": 157,
+      "endTime": 161,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 161,
+      "endTime": 165,
+      "text": "Ooh, girl, I said save your tears for another day",
+      "translation": "Ooh, garota, eu disse guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 165,
+      "endTime": 169,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 169,
       "endTime": 177,
-      "text": "Save your tears for another day\nOoh, girl",
-      "translation": "Guarde suas lágrimas para outro dia\nOoh, garota"
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
     },
     {
       "startTime": 177,
       "endTime": 181,
-      "text": "I said, save your tears for another day (ah)",
-      "translation": "Eu disse, guarde suas lágrimas para outro dia (ah)"
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
     },
     {
       "startTime": 181,
-      "endTime": 186,
-      "text": "Save your tears for another day (ah)",
-      "translation": "Guarde suas lágrimas para outro dia (ah)"
+      "endTime": 189,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
     },
     {
-      "startTime": 186,
-      "endTime": 199,
-      "text": "Save your tears for another day (ah)",
-      "translation": "Guarde suas lágrimas para outro dia (ah)"
+      "startTime": 189,
+      "endTime": 200,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 200,
+      "endTime": 208,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 208,
+      "endTime": 218,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
+    },
+    {
+      "startTime": 218,
+      "endTime": 228,
+      "text": "Save your tears for another day",
+      "translation": "Guarde suas lágrimas para outro dia"
     }
   ]
 }
