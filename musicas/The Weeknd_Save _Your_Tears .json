@@ -5,30 +5,30 @@
   "timestamps": [
     {
       "startTime": 6,
-      "endTime": 11,
+      "endTime": 8,
       "text": "na-na, yeah",
       "translation": "na-na, sim"
     },
     {
-      "startTime": 11,
-      "endTime": 16,
+      "startTime": 9,
+      "endTime": 12,
       "text": "I saw you dancing in a crowded room, uh",
       "translation": "Eu vi você dançando em uma sala cheia, uh"
     },
     {
-      "startTime": 16,
-      "endTime": 24,
+      "startTime": 12,
+      "endTime": 16,
       "text": "You look so happy when I'm not with you",
       "translation": "Você parece tão feliz quando não estou com você"
     },
     {
-      "startTime": 24,
-      "endTime": 32,
+      "startTime": 20,
+      "endTime": 25,
       "text": "But then you saw me, caught you by surprise",
       "translation": "Mas aí você me viu, te peguei de surpresa"
     },
     {
-      "startTime": 32,
+      "startTime": 21,
       "endTime": 40,
       "text": "A single teardrop falling from your eye",
       "translation": "Uma única lágrima caindo do seu olho"
