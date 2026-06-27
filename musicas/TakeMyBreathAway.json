@@ -1,55 +1,55 @@
 {
-  "titulo": "Take My Breath Away",
+  "titulo": "Berlin - Take My Breath Away (Theme from Top Gun)",
   "artista": "Berlin",
   "videoId": "fUis9yny_lI",
   "timestamps": [
     {
       "startTime": 11,
-      "endTime": 13,
+      "endTime": 15,
       "text": "Watching every motion",
       "translation": "Observando cada movimento"
     },
     {
-      "startTime": 13,
-      "endTime": 17,
-      "text": "in my foolish lover's game",
-      "translation": "no meu tolo jogo de amantes"
+      "startTime": 15,
+      "endTime": 21,
+      "text": "In my foolish lover's game",
+      "translation": "No meu tolo jogo de amantes"
     },
     {
       "startTime": 21,
-      "endTime": 23,
+      "endTime": 25,
       "text": "All this endless ocean",
       "translation": "Todo este oceano sem fim"
     },
     {
-      "startTime": 23,
-      "endTime": 27,
-      "text": "finally lovers know no shame",
-      "translation": "finalmente os amantes não conhecem a vergonha"
+      "startTime": 25,
+      "endTime": 31,
+      "text": "Finally lovers know no shame",
+      "translation": "Finalmente os amantes não conhecem a vergonha"
     },
     {
       "startTime": 31,
-      "endTime": 33,
+      "endTime": 35,
       "text": "Turning and returning",
       "translation": "Girando e retornando"
     },
     {
-      "startTime": 34,
-      "endTime": 37,
-      "text": "to some secret place inside",
-      "translation": "para algum lugar secreto por dentro"
+      "startTime": 35,
+      "endTime": 41,
+      "text": "To some secret place inside",
+      "translation": "Para algum lugar secreto por dentro"
     },
     {
       "startTime": 41,
-      "endTime": 43,
+      "endTime": 45,
       "text": "Watching in slow motion",
       "translation": "Observando em câmera lenta"
     },
     {
-      "startTime": 43,
-      "endTime": 46,
-      "text": "as you turn around and say",
-      "translation": "enquanto você se vira e diz"
+      "startTime": 45,
+      "endTime": 49,
+      "text": "As you turn around and say",
+      "translation": "Enquanto você se vira e diz"
     },
     {
       "startTime": 49,
@@ -58,194 +58,200 @@
       "translation": "Tire o meu fôlego"
     },
     {
-      "startTime": 100,
-      "endTime": 104,
+      "startTime": 55,
+      "endTime": 60,
       "text": "Take my breath away",
       "translation": "Tire o meu fôlego"
     },
     {
-      "startTime": 111,
-      "endTime": 113,
+      "startTime": 71,
+      "endTime": 75,
       "text": "Watching I keep waiting",
       "translation": "Observando, eu continuo esperando"
     },
     {
-      "startTime": 113,
-      "endTime": 117,
-      "text": "still anticipating love",
-      "translation": "ainda antecipando o amor"
+      "startTime": 75,
+      "endTime": 81,
+      "text": "Still anticipating love",
+      "translation": "Ainda antecipando o amor"
     },
     {
-      "startTime": 121,
-      "endTime": 124,
+      "startTime": 81,
+      "endTime": 85,
       "text": "Never hesitating",
       "translation": "Nunca hesitando"
     },
     {
-      "startTime": 124,
-      "endTime": 128,
-      "text": "to become the fated ones",
-      "translation": "para nos tornarmos os destinados"
+      "startTime": 85,
+      "endTime": 91,
+      "text": "To become the fated ones",
+      "translation": "Para nos tornarmos os destinados"
     },
     {
-      "startTime": 131,
-      "endTime": 133,
+      "startTime": 91,
+      "endTime": 95,
       "text": "Turning and returning",
       "translation": "Girando e retornando"
     },
     {
-      "startTime": 134,
-      "endTime": 137,
-      "text": "to some secret place to hide",
-      "translation": "para algum lugar secreto para se esconder"
+      "startTime": 95,
+      "endTime": 101,
+      "text": "To some secret place to hide",
+      "translation": "Para algum lugar secreto para se esconder"
     },
     {
-      "startTime": 141,
-      "endTime": 143,
+      "startTime": 101,
+      "endTime": 105,
       "text": "Watching in slow motion",
       "translation": "Observando em câmera lenta"
     },
     {
+      "startTime": 105,
+      "endTime": 109,
+      "text": "As you turn to me and say",
+      "translation": "Enquanto você se vira para mim e diz"
+    },
+    {
+      "startTime": 109,
+      "endTime": 110,
+      "text": "My love",
+      "translation": "Meu amor"
+    },
+    {
+      "startTime": 110,
+      "endTime": 115,
+      "text": "Take my breath away",
+      "translation": "Tire o meu fôlego"
+    },
+    {
+      "startTime": 116,
+      "endTime": 121,
+      "text": "Take my breath away",
+      "translation": "Tire o meu fôlego"
+    },
+    {
+      "startTime": 122,
+      "endTime": 126,
+      "text": "Through the hourglass I saw you",
+      "translation": "Através da ampulheta eu vi você"
+    },
+    {
+      "startTime": 126,
+      "endTime": 131,
+      "text": "In time you slipped away",
+      "translation": "A tempo você escapou"
+    },
+    {
+      "startTime": 131,
+      "endTime": 135,
+      "text": "When the mirror crashed I called you",
+      "translation": "Quando o espelho se quebrou eu chamei por você"
+    },
+    {
+      "startTime": 135,
+      "endTime": 139,
+      "text": "And turned to hear you say",
+      "translation": "E me virei para ouvir você dizer"
+    },
+    {
+      "startTime": 139,
+      "endTime": 144,
+      "text": "If only for today",
+      "translation": "Se ao menos por hoje"
+    },
+    {
       "startTime": 144,
-      "endTime": 146,
-      "text": "as you turn to me and say",
-      "translation": "enquanto você se vira para mim e diz"
-    },
-    {
-      "startTime": 147,
       "endTime": 149,
-      "text": "my love",
-      "translation": "meu amor"
+      "text": "I am unafraid",
+      "translation": "Eu não tiver medo"
     },
     {
-      "startTime": 150,
+      "startTime": 149,
       "endTime": 154,
       "text": "Take my breath away",
       "translation": "Tire o meu fôlego"
     },
     {
+      "startTime": 155,
+      "endTime": 160,
+      "text": "Take my breath away",
+      "translation": "Tire o meu fôlego"
+    },
+    {
+      "startTime": 171,
+      "endTime": 175,
+      "text": "Watching every motion",
+      "translation": "Observando cada movimento"
+    },
+    {
+      "startTime": 175,
+      "endTime": 181,
+      "text": "In this foolish lover's game",
+      "translation": "Neste tolo jogo de amantes"
+    },
+    {
+      "startTime": 181,
+      "endTime": 185,
+      "text": "Haunted by the notion",
+      "translation": "Assombrada pela noção"
+    },
+    {
+      "startTime": 185,
+      "endTime": 191,
+      "text": "Somewhere there's a love in flames",
+      "translation": "De que em algum lugar há um amor em chamas"
+    },
+    {
+      "startTime": 191,
+      "endTime": 195,
+      "text": "Turning and returning",
+      "translation": "Girando e retornando"
+    },
+    {
+      "startTime": 195,
+      "endTime": 201,
+      "text": "To some secret place inside",
+      "translation": "Para algum lugar secreto por dentro"
+    },
+    {
       "startTime": 201,
       "endTime": 205,
-      "text": "Through the hourglass I saw you",
-      "translation": "Através da ampulheta eu vi você"
+      "text": "Watching in slow motion",
+      "translation": "Observando em câmera lenta"
     },
     {
-      "startTime": 206,
-      "endTime": 210,
-      "text": "in time you slipped away",
-      "translation": "a tempo você escapou"
+      "startTime": 205,
+      "endTime": 209,
+      "text": "As you turn my way and say",
+      "translation": "Enquanto você se vira em minha direção e diz"
     },
     {
-      "startTime": 211,
+      "startTime": 209,
       "endTime": 214,
-      "text": "When the mirror crashed I called you",
-      "translation": "Quando o espelho se quebrou eu chamei por você"
+      "text": "Take my breath away",
+      "translation": "Tire o meu fôlego"
     },
     {
-      "startTime": 215,
+      "startTime": 214,
       "endTime": 219,
-      "text": "and turned to hear you say",
-      "translation": "e me virei para ouvir você dizer"
+      "text": "My love, take my breath away",
+      "translation": "Meu amor, tire o meu fôlego"
     },
     {
-      "startTime": 220,
-      "endTime": 223,
-      "text": "If only for today",
-      "translation": "Se ao menos por hoje"
+      "startTime": 219,
+      "endTime": 224,
+      "text": "Take my breath away",
+      "translation": "Tire o meu fôlego"
     },
     {
-      "startTime": 224,
-      "endTime": 229,
-      "text": "I am unafraid",
-      "translation": "eu não tiver medo"
-    },
-    {
-      "startTime": 230,
+      "startTime": 229,
       "endTime": 234,
       "text": "Take my breath away",
       "translation": "Tire o meu fôlego"
     },
     {
-      "startTime": 240,
+      "startTime": 239,
       "endTime": 244,
-      "text": "Take my breath away",
-      "translation": "Tire o meu fôlego"
-    },
-    {
-      "startTime": 251,
-      "endTime": 253,
-      "text": "Watching every motion",
-      "translation": "Observando cada movimento"
-    },
-    {
-      "startTime": 253,
-      "endTime": 257,
-      "text": "in this foolish lover's game",
-      "translation": "neste tolo jogo de amantes"
-    },
-    {
-      "startTime": 301,
-      "endTime": 303,
-      "text": "Haunted by the notion",
-      "translation": "Assombrada pela noção"
-    },
-    {
-      "startTime": 303,
-      "endTime": 307,
-      "text": "somewhere there's a love in flames",
-      "translation": "de que em algum lugar há um amor em chamas"
-    },
-    {
-      "startTime": 311,
-      "endTime": 313,
-      "text": "Turning and returning",
-      "translation": "Girando e retornando"
-    },
-    {
-      "startTime": 314,
-      "endTime": 318,
-      "text": "to some secret place inside",
-      "translation": "para algum lugar secreto por dentro"
-    },
-    {
-      "startTime": 321,
-      "endTime": 323,
-      "text": "Watching in slow motion",
-      "translation": "Observando em câmera lenta"
-    },
-    {
-      "startTime": 324,
-      "endTime": 327,
-      "text": "as you turn my way and say",
-      "translation": "enquanto você se vira em minha direção e diz"
-    },
-    {
-      "startTime": 330,
-      "endTime": 334,
-      "text": "Take my breath away",
-      "translation": "Tire o meu fôlego"
-    },
-    {
-      "startTime": 337,
-      "endTime": 339,
-      "text": "my love",
-      "translation": "meu amor"
-    },
-    {
-      "startTime": 340,
-      "endTime": 344,
-      "text": "Take my breath away",
-      "translation": "Tire o meu fôlego"
-    },
-    {
-      "startTime": 350,
-      "endTime": 354,
-      "text": "Take my breath away",
-      "translation": "Tire o meu fôlego"
-    },
-    {
-      "startTime": 400,
-      "endTime": 404,
       "text": "Take my breath away",
       "translation": "Tire o meu fôlego"
     }
